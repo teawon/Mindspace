@@ -1,7 +1,7 @@
 # Mindspace
 
 <div align="center">
-<image src="https://github.com/techeer-sv/Mindspace/assets/105929978/37ad493e-f2c5-42c7-a384-de461f9d6c8e">
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/8771c61f-5ea5-4840-a18a-a75e5987eb6d" />
 <br>
 <h3>
 개발 기술 키워드를 기준으로 마인드맵 형태로 탐색해 정리한 글을 공유하는 통합 학습 플랫폼
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/6dfe0d91-bd85-47e7-bef1-d92b72af44d0" width="100%">
+![image](https://miro.medium.com/v2/resize:fit:1280/format:webp/1*SB-RvEAITb073PhF3Jz07g.gif)
 
 <br>
 
@@ -37,25 +37,11 @@
 
 <br>
 
-<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/6d171bcb-c68f-4b5b-9875-774b224a1633" width="100%">
+![image](https://miro.medium.com/v2/resize:fit:1280/format:webp/1*tYf-zq2u8fXyKddv_x7-OQ.gif)
 
 <br>
 
-### 글 삭제
 
-<br>
-
-<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/9c4b1813-d084-4d36-87de-08b5a275d00a" width="100%">
-
-<br>
-
-### 글 리스트 조회
-
-<br>
-
-<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/2ea0b2c2-b07d-4ffe-8fe9-f468d2cf4272" width="100%">
-
-<br>
 
 ### 댓글 작성
 
@@ -64,6 +50,7 @@
 <img src="https://github.com/techeer-sv/Mindspace/assets/105929978/cf74b488-96f4-45e8-a927-de588b3c9886" width="100%">
 
 <br>
+
 
 ### 댓글 알림
 
